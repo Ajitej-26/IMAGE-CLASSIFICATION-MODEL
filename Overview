@@ -1,0 +1,1 @@
+The goal of this project is to train a CNN to accurately classify images in the CIFAR-10 dataset. The model is built with PyTorch, trained on a GPU (if available), and visualized using Matplotlib.
